@@ -2,7 +2,7 @@
 #Overview
 This is a fully functional eCommerce site built using Django. It features a comprehensive shopping experience, from browsing products to managing shopping carts and processing orders. The project integrates various technologies to provide a seamless and interactive user experience.
 
-Key Features
+#Key Features
 Product Catalog: Display and categorize products with detailed information.
 Shopping Cart: Add products to the cart and manage item quantities.
 Local Storage: Use local storage to enhance user experience by remembering user preferences.
